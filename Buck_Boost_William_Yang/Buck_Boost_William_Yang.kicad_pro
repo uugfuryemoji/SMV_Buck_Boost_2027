@@ -613,6 +613,18 @@
     [
       "5ffd6b0d-6793-4800-8d1c-36ff6fc4748b",
       "Root"
+    ],
+    [
+      "afa8c0f9-7b4a-4c7a-8c06-7972d1c32847",
+      "48V to 55V Boost"
+    ],
+    [
+      "d97b7bce-295c-4cbb-945a-4f17d6400a36",
+      "48V to 12V Buck"
+    ],
+    [
+      "8756828e-acda-457e-b2fd-a45817b60f32",
+      "12V to 5V Buck"
     ]
   ],
   "text_variables": {}
