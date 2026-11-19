@@ -380,12 +380,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -430,7 +442,7 @@
         "uuid": "2aefd8f7-63f8-499f-aa01-7aeabf244e6d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-17,#PWR19-22,C1-7,CIN1,COUT1,C_{BIAS}1,C_{BOOT1}1,C_{BOOT2}1,C_{COMP}1,C_{HF}1,C_{IMON}1,C_{VCC}1,C_{VIN}1,Css1,L1,Q1-4,R1-9,R_{CFG}1,R_{COMP}1,R_{FBB}1,R_{FBT}1,R_{IMON}1,R_{SLOPE}1,R_{SYNC}1,R_{T}1,R_{UV1}1,R_{UV2}1,R_{nFLT}1,Risns(out)1,U1-2",
     "variants": []
   },
   "sheets": [
